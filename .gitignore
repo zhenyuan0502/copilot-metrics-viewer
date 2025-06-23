@@ -26,5 +26,7 @@ logs
 # Playwright
 playwright-report
 playwright-logs
-test-results.env
-.env
+
+# Test results
+test-results
+results.xml
